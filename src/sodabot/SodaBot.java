@@ -32,7 +32,7 @@ import soda.checkers.CheckersCommandListener;
 public class SodaBot {
 
 
-	public static String token = "NzQ0MjI4MDE1NTE2NDE4MTY4.XzgKWQ.L-5TbTTE7gNJlPW1jGGsFaliPjY";
+	public static String token = "TOKEN";
 	public static long botId = 744228015516418168L;
 
 	public static JDA jda;
